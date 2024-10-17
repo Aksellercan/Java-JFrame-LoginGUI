@@ -1,18 +1,3 @@
-aksell,1151
-hatsune,miku
-kasane,teto
-thom,yorke
-muse,radiohead
-Thom Yorke,
-Thom,Yorke
 new,user
-thom1,yorke1
-aa,ww
-text,
 wade,wide
-test1,ts2
-test12,ts23
-awa,wawa
-ok,koko
-hh,kkmichael,romance
 michael,romance
