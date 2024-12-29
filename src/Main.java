@@ -75,7 +75,7 @@ public class Main {
          }
     }
     static class Fileclass {
-        private static String filepath ="C:\\Users\\Aksell\\IdeaProjects\\multiquestionsv2\\src\\filereader.txt";
+        private static String filepath ="src\\filereader.txt";
 
          static void addtofile(String user, String pass){
             try(FileWriter mywriter = new FileWriter(filepath,true)) {
